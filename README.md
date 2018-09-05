@@ -12,3 +12,6 @@ python3 trim_card_image.py
 
 * python3
 * opencv3
+
+## TODO
+インフラ構築。強い気持ちでコード化していくこと。
